@@ -1,3 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Docker/Data
+sftp_data/*
+!sftp_data/.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
